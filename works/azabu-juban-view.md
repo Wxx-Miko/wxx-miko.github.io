@@ -1,5 +1,5 @@
 ---
-title: 麻布十番｜东京塔“贴脸”视线的室内叙事
+title: 麻布十番｜东京塔“贴脸”视线的室内叙事 
 ---
 
 <link rel="stylesheet" href="/assets/style.css">
