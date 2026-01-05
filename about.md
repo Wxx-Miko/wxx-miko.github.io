@@ -6,7 +6,7 @@ title: About
 
 <div class="container">
   <p class="kicker">About</p>
-  <h1 class="h1">XiaoRong (吴晓轩) — Video Creator</h1>
+  <h1 class="h1">WU XIAOXUAN (吴晓轩) — Video Creator</h1>
 
   <p class="lead">
     我在东京进行影像创作，擅长用短视频叙事呈现空间、城市与人的关系。
