@@ -1,58 +1,55 @@
 ---
-title: 東京港区｜街头采访进入中国女生的家（极小空间×强冲突布局）
+title: 麻布十番｜东京塔“贴脸”视线的室内叙事
 ---
 
 <link rel="stylesheet" href="/assets/style.css">
 <div class="container">
-  <p class="kicker">Work 03</p>
-  <h1 class="h1">震惊！东京港区的房子竟然性价比这么高</h1>
+  <p class="kicker">Work 08</p>
+  <h1 class="h1">我丢！麻布十番🗼最佳观赏位</h1>
 
   <p class="lead">
-    <b>中文</b>：街头采访式的“即时进入”空间叙事。以“港区却异常便宜”的反差建立悬念，在现场沟通中完成拍摄与入室同意确认，进入一间面积很小但设计感强的居所。影片的空间冲突点来自极端布局：卫生间（马桶）位于房间中央、无任何隔断并紧贴厨房，使“隐私/生活动线/社交礼仪”在同一画面中被迫显形。<br>
-    <b>日本語</b>：街頭インタビュー型の「即時訪問」空間ナラティブ。「港区なのに異常に安い」というギャップで導入し、現場で撮影・入室の同意を確認。極小ながらデザイン性の高い住まいを見せる。本作の核は“空間の衝突”であり、トイレ（便器）が部屋の中央にあり、仕切りがなくキッチンに隣接するという極端な配置によって、プライバシー／生活動線／来客時のマナーが同一フレームで可視化される。
+    <b>中文</b>：以“视线（View）”为核心的空间短片。开头直接在客厅以近距离正对东京塔建立最强证据画面，迅速完成价值揭示；随后通过室内介绍与动线推进，把“景观”与“居住体验”连接起来：从视线来源（窗/朝向/开口）到房间内部的尺度、布局与细节，形成“先震撼→再解释→再落地”的叙事节奏，让观众不仅看到景，也理解这个景如何嵌入日常生活。<br>
+    <b>日本語</b>：「視線（View）」を軸にした空間ショート。冒頭でリビングから至近距離で東京タワーを正面に捉え、価値を一瞬で提示する“根拠映像”として機能させる。その後は室内紹介と動線で、眺望を居住体験へ接続する。窓の開口・方角・視線の成立条件から、室内のスケールやレイアウト、ディテールへ展開し、「驚き→説明→生活への落とし込み」のテンポで“景色が日常に組み込まれる構造”を伝える。
   </p>
 
-  <iframe class="embed" src="https://www.youtube.com/embed/zoniQBvf_3E" allowfullscreen></iframe>
+  <iframe class="embed" src="https://www.youtube.com/embed/9DZ33jEpLvs" allowfullscreen></iframe>
 
   <div class="hr"></div>
 
   <p class="kicker">Info</p>
   <ul>
-    <li><b>Duration</b>：3:36</li>
+    <li><b>Duration</b>：2:06</li>
     <li><b>Role</b>：拍摄 + 剪辑（撮影＋編集）</li>
-    <li><b>Format</b>：街头采访 → 同意确认 → 入室探访（街頭インタビュー→同意確認→訪問）</li>
     <li><b>Platform</b>：小红书</li>
-    <li><b>Performance</b>：曝光 31,343</li>
+    <li><b>Performance</b>：曝光 3,534 · 点赞 74</li>
   </ul>
 
   <p class="kicker">Focus</p>
   <p class="lead">
-    <b>中文</b>：以“空间限制”制造叙事张力：从反差钩子（港区×低价）进入，再以布局冲突（马桶置中无隔断）推进信息揭示；同时用镜头顺序完成空间理解（入口→全景→动线→细节→冲突点→结论）。<br>
-    <b>日本語</b>：空間制約を物語の推進力にする設計。ギャップ（港区×低価格）で導入し、配置の衝突（便器が中央・仕切りなし）で情報を段階的に開示。入口→全景→動線→ディテール→衝突点→まとめの順で空間理解を成立させる。
+    <b>中文</b>：用开场“强证据镜头”完成快速吸引，并用镜头顺序解释价值来源：景观→空间条件→室内要素→总结收束；在短时长内保持信息清晰与节奏连贯。<br>
+    <b>日本語</b>：冒頭の“強い根拠映像”で惹きつけ、眺望→成立条件→室内要素→まとめ の順で価値を説明する構成。短尺でも情報の明瞭さとテンポの一貫性を維持。
   </p>
 
   <p class="kicker">Keywords</p>
   <p>
-    <span class="badge">Interview</span>
-    <span class="badge">Consent</span>
-    <span class="badge">Micro Space</span>
-    <span class="badge">Spatial Conflict</span>
-    <span class="badge">Privacy</span>
-    <span class="badge">Information Design</span>
+    <span class="badge">View</span>
+    <span class="badge">Reveal</span>
+    <span class="badge">Spatial Narrative</span>
+    <span class="badge">Evidence Shot</span>
+    <span class="badge">Interior</span>
   </p>
 
   <div class="hr"></div>
 
   <p class="kicker">Stills (recommended)</p>
   <p class="lead">
-    <b>中文</b>：建议截图 4–6 张：①街头提问（Hook）②港区/价格反差提示（Gap）③小空间全景（Establishing）④设计细节（Detail）⑤马桶置中无隔断的冲突画面（Conflict）⑥结尾总结/反思（Payoff）。<br>
-    <b>日本語</b>：スチル4〜6枚推奨：①街頭質問（Hook）②港区×価格のギャップ（Gap）③極小空間の全景（Establishing）④デザインのディテール（Detail）⑤便器が中央で仕切りなし（Conflict）⑥まとめ/示唆（Payoff）。
+    <b>中文</b>：建议截图 4–5 张：①客厅贴脸东京塔（Hook/Proof）②窗与视线条件（How）③室内全景（Establishing）④细节（Detail）⑤结尾总结/余韵（Payoff）。<br>
+    <b>日本語</b>：スチル4〜5枚推奨：①リビングから東京タワー（Hook/Proof）②窓と視線条件（How）③室内全景（Establishing）④ディテール（Detail）⑤まとめ/余韻（Payoff）。
   </p>
   <!--
-  ![still](../assets/img/w03_01.jpg)
-  ![still](../assets/img/w03_02.jpg)
-  ![still](../assets/img/w03_03.jpg)
-  ![still](../assets/img/w03_04.jpg)
-  ![still](../assets/img/w03_05.jpg)
+  ![still](../assets/img/w08_01.jpg)
+  ![still](../assets/img/w08_02.jpg)
+  ![still](../assets/img/w08_03.jpg)
+  ![still](../assets/img/w08_04.jpg)
   -->
 </div>
