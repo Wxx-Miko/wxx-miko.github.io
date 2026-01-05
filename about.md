@@ -17,8 +17,6 @@ title: About
 
   <p class="kicker">Contact</p>
   <p class="lead">
-    Email：<填你的邮箱><br>
-    YouTube：<你的频道链接><br>
-    小红书/视频号：<链接>
+    Email：<wxx850800304@gmail.com><br>
   </p>
 </div>
