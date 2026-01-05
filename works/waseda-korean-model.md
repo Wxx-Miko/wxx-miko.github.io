@@ -1,5 +1,5 @@
 ---
-title: 早稻田大学｜街头采访进入韩国留学生的家
+title: 早稻田大学｜街头采访进入韩国留学生的家（早稲田大学｜街頭インタビューで韓国人留学生の家へ）
 ---
 
 <link rel="stylesheet" href="/assets/style.css">
