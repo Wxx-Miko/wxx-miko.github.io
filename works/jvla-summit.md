@@ -1,11 +1,11 @@
 ---
-title: 2025.11.6 日本中古奢侈品协会 第一届峰会
+title: 2025.11.6 日本中古奢侈品协会 第一届峰会「JVLA 第1回サミット｜イベント記録」
 ---
 
 <link rel="stylesheet" href="/assets/style.css">
 <div class="container">
   <p class="kicker">Work 06</p>
-  <h1 class="h1">2025.11.6 日本中古奢侈品协会 第一届峰会</h1>
+  <h1 class="h1">2025.11.6 日本中古奢侈品协会 第一届峰会「JVLA 第1回サミット｜イベント記録」</h1>
 
   <p class="lead">
     <b>中文</b>：活动纪实 Aftermovie。以“情绪曲线”浓缩现场亮点（人物、品牌、氛围、节奏）。<br>
