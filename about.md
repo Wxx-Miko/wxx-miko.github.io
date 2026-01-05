@@ -19,6 +19,6 @@ title: About
 
   <p class="kicker">Contact</p>
   <p class="lead">
-    Email：<wxx850800304@gmail.com><br>
+    Email：< wxx850800304@gmail.com ><br>
   </p>
 </div>
