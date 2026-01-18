@@ -41,7 +41,7 @@ title: 别被骗了！关于上野，没人敢说的……「騙されるな｜�
   <div class="hr"></div>
 
   <p class="kicker">Stills (optional)</p>
-  <p class="lead">截图建议：观点钩子字幕帧 / 场景证据帧 / 收束总结帧。<br>推奨：フック字幕 / 根拠のシーン / まとめ。</p>
+
   <!--
   ![still](../assets/img/w04_01.jpg)
   ![still](../assets/img/w04_02.jpg)
