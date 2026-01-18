@@ -44,8 +44,7 @@ title: 成田机场近在咫尺｜4000㎡土地×老宅×小型美术馆「成�
 
   <p class="kicker">Stills (recommended)</p>
   <p class="lead">
-    <b>中文</b>：建议截图 4–6 张：①土地规模感全景（Scale）②树木与自然层次（Nature）③老宅外观或入口（Time）④小型美术馆/藏品一角（Museum）⑤石头路的手工痕迹（Trace）⑥结尾总结（Payoff）。<br>
-    <b>日本語</b>：スチル4〜6枚推奨：①敷地のスケール（Scale）②樹木のレイヤー（Nature）③老宅の外観/入口（Time）④小型美術館/収集品（Museum）⑤石畳の手仕事（Trace）⑥まとめ（Payoff）。
+   
   </p>
   <!--
   ![still](../assets/img/w07_01.jpg)
