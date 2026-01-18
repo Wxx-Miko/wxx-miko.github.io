@@ -40,8 +40,7 @@ title: 别被骗了！关于池袋，没人敢说的……「騙されるな｜�
 
   <div class="hr"></div>
 
-  <p class="kicker">Stills (optional)</p>
-  <p class="lead">截图建议：系列标题帧 / 证据镜头帧 / 结尾建议帧。<br>推奨：シリーズタイトル / 根拠 / 結論。</p>
+
   <!--
   ![still](../assets/img/w05_01.jpg)
   ![still](../assets/img/w05_02.jpg)
