@@ -39,7 +39,7 @@ title: 2025.11.6 日本中古奢侈品协会 第一届峰会「JVLA 第1回サ�
   <div class="hr"></div>
 
   <p class="kicker">Stills (optional)</p>
-  <p class="lead">截图建议：开场全景 / 关键人物互动 / 品牌元素 / 结束氛围。<br>推奨：会場全景 / 人物 / ブランド要素 / 余韻。</p>
+
   <!--
   ![still](../assets/img/w06_01.jpg)
   ![still](../assets/img/w06_02.jpg)
