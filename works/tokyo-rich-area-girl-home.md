@@ -46,8 +46,7 @@ title: 🇯🇵丨东京富人区｜街头采访进入日本女生（模特）�
 
   <p class="kicker">Stills (recommended)</p>
   <p class="lead">
-    <b>中文</b>：建议截图 4–6 张：①街头提问（Hook）②同意确认（Ethics）③白色系空间全景（Establishing）④烘焙相关细节（Detail）⑤人物特写/互动（Character）⑥结尾收束（Payoff）。<br>
-    <b>日本語</b>：スチル4〜6枚推奨：①街頭質問（Hook）②同意確認（Ethics）③白基調の全景（Establishing）④焼き菓子のディテール（Detail）⑤人物の表情/所作（Character）⑥収束（Payoff）。
+  
   </p>
   <!--
   ![still](../assets/img/w02_01.jpg)
