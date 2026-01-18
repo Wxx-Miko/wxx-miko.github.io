@@ -43,8 +43,7 @@ title: 麻布十番｜东京塔“贴脸”视线的室内叙事 「麻布十番
 
   <p class="kicker">Stills (recommended)</p>
   <p class="lead">
-    <b>中文</b>：建议截图 4–5 张：①客厅贴脸东京塔（Hook/Proof）②窗与视线条件（How）③室内全景（Establishing）④细节（Detail）⑤结尾总结/余韵（Payoff）。<br>
-    <b>日本語</b>：スチル4〜5枚推奨：①リビングから東京タワー（Hook/Proof）②窓と視線条件（How）③室内全景（Establishing）④ディテール（Detail）⑤まとめ/余韻（Payoff）。
+
   </p>
   <!--
   ![still](../assets/img/w08_01.jpg)
