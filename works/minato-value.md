@@ -45,8 +45,7 @@ title: 東京港区｜街头采访进入中国女生的家（极小空间×强�
 
   <p class="kicker">Stills (recommended)</p>
   <p class="lead">
-    <b>中文</b>：建议截图 4–6 张：①街头提问（Hook）②港区/价格反差提示（Gap）③小空间全景（Establishing）④设计细节（Detail）⑤马桶置中无隔断的冲突画面（Conflict）⑥结尾总结/反思（Payoff）。<br>
-    <b>日本語</b>：スチル4〜6枚推奨：①街頭質問（Hook）②港区×価格のギャップ（Gap）③極小空間の全景（Establishing）④デザインのディテール（Detail）⑤便器が中央で仕切りなし（Conflict）⑥まとめ/示唆（Payoff）。
+   
   </p>
   <!--
   ![still](../assets/img/w03_01.jpg)
