@@ -46,8 +46,7 @@ title: 早稻田大学｜街头采访进入韩国留学生的家（早稲田大�
 
   <p class="kicker">Stills (recommended)</p>
   <p class="lead">
-    <b>中文</b>：建议截图 4–6 张：①街头提问（Hook）②同意确认（Ethics）③暗光氛围下的空间全景（Establishing）④布置细节（Detail）⑤人物特写/表达瞬间（Character）⑥结尾收束画面（Payoff）。<br>
-    <b>日本語</b>：スチル4〜6枚推奨：①街頭質問（Hook）②同意確認（Ethics）③暗めの照明下の全景（Establishing）④インテリアのディテール（Detail）⑤人物の表情/語り（Character）⑥余韻の収束（Payoff）。
+   
   </p>
   <!--
   ![still](../assets/img/w01_01.jpg)
